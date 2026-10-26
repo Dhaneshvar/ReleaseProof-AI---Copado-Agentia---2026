@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+* { scrollbar-width: thin; scrollbar-color: #3b4560 transparent; }
+body { background: #0b0d0b; }
+::selection { background: rgba(200, 255, 104, .28); color: #fff; }
+

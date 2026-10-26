@@ -1,0 +1,12 @@
+{
+  "name": "ReleaseProof AI",
+  "short_name": "ReleaseProof",
+  "description": "Evidence-driven Salesforce release intelligence powered by Agentia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#090b12",
+  "orientation": "any",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
+

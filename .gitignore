@@ -1,0 +1,25 @@
+# Dependencies and build output
+node_modules/
+.next/
+dist/
+build/
+__pycache__/
+*.pyc
+
+# Local runtime data
+data/*.sqlite3
+data/*.db
+.codex-finalizer/
+*.tsbuildinfo
+submission/~$*
+
+# Secrets and local configuration
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
